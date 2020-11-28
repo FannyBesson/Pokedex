@@ -27,3 +27,8 @@ To run the application with command line arguments :
 ```
 ./gradlew test
 ```
+
+# Report
+
+The report for this TP can be found in the `Besson Fanny rendu Pokedex.pdf` file.
+
